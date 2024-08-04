@@ -45,7 +45,7 @@ but recently i have been makeing things that are pretty cool.
 
 📊 Stats
 
-![My Stats](Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternusdio&show_icons=true&theme=dracula)
+![My Stats](https://github-readme-stats.vercel.app/api?username=aeternusdio&show_icons=true&theme=dracula)
 
 
 ### Current Projects i'm working on 💻
