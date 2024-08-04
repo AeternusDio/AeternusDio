@@ -38,6 +38,7 @@ but recently i have been makeing things that are pretty cool.
   <a href="https://github.com/QUAKTECH/Licenser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=Licenser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Licenser"></a>
   <a href="https://github.com/QUAKTECH/QUAKTECH-Licenses"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=QUAKTECH-Licenses&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QUAKTECH-Licenses"></a>
   <a href="https://github.com/QUAKTECH/QUAKTECH-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=QUAKTECH-Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QUAKTECH-Website"></a>
+  <a href="https://github.com/AeternusDio/AeternusDio"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=AeternusDio&repo=AeternusDio&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="AeternusDio"></a>
 </p>
 
 
