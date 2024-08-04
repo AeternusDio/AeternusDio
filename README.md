@@ -50,3 +50,8 @@ but recently i have been makeing things that are pretty cool.
 
 ### Current Projects i'm working on 💻
 - Trash Bin OS - A light, simple, custum operating system.
+- SFTM - (SUPER. FAST. TODO. MANAGER)
+
+### ☎ Contact 
+Email : longnecklion126@gmail.com
+
