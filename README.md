@@ -9,7 +9,7 @@ but recently i have been makeing things that are pretty cool.
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/IaCqbQN.gif" alt="GIF" style="display: block; margin: 0 auto; width: 500px; height: 300px;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXU2bHhweXF2NTkwZ28xbHl0MXRmdWtrcXVubWcwdWFmamR2aDNtOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9jVAv94PRzPoc/giphy.webp" alt="GIF" style="display: block; margin: 0 auto; width: 400px; height: 250px;">
 </p>
 
 ---
@@ -26,7 +26,21 @@ but recently i have been makeing things that are pretty cool.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 
-<br />
+<br>
+
+---
+
+### 📕 Some of my repositories
+<p align=left>   
+  <a href="https://github.com/QUAKTECH/CCalc"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=CCalc&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CCalc"></a>
+  <a href="https://github.com/QUAKTECH/SlowFetch"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=SlowFetch&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="SlowFetch"></a>
+  <a href="https://github.com/QUAKTECH/QPass"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=QPass&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QPass"></a>
+  <a href="https://github.com/QUAKTECH/Licenser"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=Licenser&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Licenser"></a>
+  <a href="https://github.com/QUAKTECH/QUAKTECH-Licenses"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=QUAKTECH-Licenses&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QUAKTECH-Licenses"></a>
+  <a href="https://github.com/QUAKTECH/QUAKTECH-Website"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=QUAKTECH&repo=QUAKTECH-Website&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="QUAKTECH-Website"></a>
+</p>
+
+
 
 ### Current Projects i'm working on 💻
 - Trash Bin OS - A light, simple, custum operating system.
