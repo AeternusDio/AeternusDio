@@ -42,6 +42,10 @@ but recently i have been makeing things that are pretty cool.
 </p>
 
 
+### 📊 Stats
+
+![My Stats](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aeternusdio&show_icons=true&theme=dracula))
+
 
 ### Current Projects i'm working on 💻
 - Trash Bin OS - A light, simple, custum operating system.
