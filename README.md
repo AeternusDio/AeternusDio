@@ -1,5 +1,5 @@
 # AeternusDio
-I'm a i guess student programmer, learning Rust🦀. I make some dumb stuff, 
+I'm a i guess student programmer, learning Rust 🦀. I make some dumb stuff, 
 but recently i have been makeing things that are pretty cool.
 <p align="center">
   <a href="https://github.com/AeternusDio?tab=repositories&sort=stargazers">
