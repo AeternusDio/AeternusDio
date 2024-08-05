@@ -29,7 +29,7 @@ but recently i have been makeing things that are pretty cool.
 <br>
 <br>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternusdio&layout=donut-vertical&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternusdio&layout=donut&theme=dracula)
 
 <br>
 
