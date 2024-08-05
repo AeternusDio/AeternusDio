@@ -28,6 +28,10 @@ but recently i have been makeing things that are pretty cool.
 
 <br>
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternusdio&layout=compact&theme=transparent)
+
+<br>
+
 ---
 
 ### 📕 Some of my repositories
