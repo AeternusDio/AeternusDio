@@ -27,8 +27,9 @@ but recently i have been makeing things that are pretty cool.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
 
 <br>
+<br>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternusdio&layout=compact&theme=transparent)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aeternusdio&layout=compact&theme=transparent)
 
 <br>
 
