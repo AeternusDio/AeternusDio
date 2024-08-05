@@ -1,6 +1,7 @@
 # AeternusDio
 I'm a i guess student programmer, learning Rust 🦀. I make some dumb stuff, 
-but recently i have been makeing things that are pretty cool.
+but recently i have been makeing things that are pretty cool. I also made QUAKTECH in which i and 2 others will 
+be developing a custum Operating system from sratch.
 <p align="center">
   <a href="https://github.com/AeternusDio?tab=repositories&sort=stargazers">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AeternusDio?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
