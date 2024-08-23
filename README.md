@@ -4,7 +4,7 @@ but recently i have been makeing things that are pretty cool. I also made QUAKTE
 be developing a custum Operating system from sratch.
 <p align="center">
   <a href="https://github.com/AeternusDio?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AeternusDio?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/AeternusDio?color=FFA500&style=for-the-badge&labelColor=FFD700&logo=star"/></a>
   <a href="https://github.com/AeternusDio?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/AeternusDio?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </p>
