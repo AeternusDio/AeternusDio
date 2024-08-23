@@ -56,7 +56,7 @@ be developing a custum Operating system from sratch.
 
 
 ### Current Projects i'm working on 💻
-- Trash Bin OS - A light, simple, custum operating system.
+- Qpass - A secure CLI Password Manager
 - SFTM - (SUPER. FAST. TODO. MANAGER)
 
 ### ☎ Contact 
